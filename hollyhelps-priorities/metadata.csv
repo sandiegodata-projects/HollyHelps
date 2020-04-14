@@ -1,0 +1,26 @@
+Declare,metatab-latest
+Title,
+Description,
+Identifier,ef9d3b70-542d-412f-8359-d94d9fa7b1e4
+Name,hollyhelps-priorities-1
+Dataset,priorities
+Origin,hollyhelps
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2020-04-14T22:03:18
+Modified,2020-04-14T22:03:18
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+""
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+""
+Section,Schema,DataType,AltName,Description

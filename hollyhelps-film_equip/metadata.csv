@@ -1,0 +1,26 @@
+Declare,metatab-latest
+Title,
+Description,
+Identifier,d1a3c559-95f3-43fa-9222-a1d600bdcef6
+Name,hollyhelps-film_equip-1
+Dataset,film_equip
+Origin,hollyhelps
+Time,
+Space,
+Grain,
+Variant,
+Version,1
+Created,2020-04-14T22:02:44
+Modified,2020-04-14T22:02:44
+""
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+""
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+""
+Section,References,Name,Description,
+""
+Section,Resources,Name,Description,
+""
+Section,Schema,DataType,AltName,Description
